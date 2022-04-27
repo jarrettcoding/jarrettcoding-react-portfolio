@@ -134,7 +134,6 @@ section {
 .highlight-work a {
   display: flex;
   flex-wrap: wrap;
-  background-image: url(../assets/images/hero-bg.jpg);
   background-size: cover;
   background-position: right;
   justify-content: left;
