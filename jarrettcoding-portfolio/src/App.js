@@ -5,6 +5,8 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 import Nav from "./Components/Nav";
 
+import Main from "./Pages/Main";
+
 function App() {
   return (
     <Router>
